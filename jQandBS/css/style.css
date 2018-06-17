@@ -1,0 +1,9 @@
+body {
+    margin: 10%;
+}
+h1 {
+    text-align: center;
+}
+.alert {
+    visibility: hidden;
+}
